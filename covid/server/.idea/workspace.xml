@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="covid" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c3e2e6f-17e7-4f34-9d53-44f842c34368" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/covid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Covid.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/swim/covid/CovidPlane.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/swim/covid/CovidPlane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/swim/covid/DataSource$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/swim/covid/DataSource$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/swim/covid/DataSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/swim/covid/DataSource.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/swim/covid/UnitAgent.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/swim/covid/UnitAgent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/Covid-3.10.2.tar" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/Covid-3.10.2.tar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/distributions/Covid-3.10.2.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/distributions/Covid-3.10.2.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/Covid-3.10.2.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/Covid-3.10.2.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swim/covid/DataSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swim/covid/DataSource.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Covid" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Covid" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Covid" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="distribution" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="moduleName" value="Covid.main" />
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+        </Entry>
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="14" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bUKQUJJUiQae13w3DoCwB3SxTJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Groovy.Last.Module.Chosen" value="Covid.main" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="EditorConfig&#10;TEXT" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="RunManager" selected="Gradle.server">
+    <configuration name="server [distTar]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="distTar" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="server [installDist]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="installDist" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.server [distTar]" />
+        <item itemvalue="Gradle.server [installDist]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c3e2e6f-17e7-4f34-9d53-44f842c34368" name="Default Changelist" comment="" />
+      <created>1588681215200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588681215200</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="133" key="#Plugins" timestamp="1589219633542">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state x="440" y="133" key="#Plugins/0.23.1680.925@0.23.1680.925" timestamp="1589219633542" />
+    <state x="328" y="67" key="#Project_Structure" timestamp="1588682484664">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state x="328" y="67" key="#Project_Structure/0.23.1680.925@0.23.1680.925" timestamp="1588682484664" />
+    <state x="304" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589224068727">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state x="304" y="147" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.925@0.23.1680.925" timestamp="1589224068727" />
+    <state x="627" y="197" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1589223380038">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state x="627" y="197" key="#com.intellij.ide.macro.MacrosDialog/0.23.1680.925@0.23.1680.925" timestamp="1589223380038" />
+    <state x="577" y="282" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589223445463">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state x="577" y="282" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.925@0.23.1680.925" timestamp="1589223445463" />
+    <state x="694" y="217" key="EnvironmentVariablesDialog" timestamp="1589223434222">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state x="694" y="217" key="EnvironmentVariablesDialog/0.23.1680.925@0.23.1680.925" timestamp="1589223434222" />
+    <state width="1558" height="305" key="GridCell.Tab.0.bottom" timestamp="1589224069987">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1558" height="305" key="GridCell.Tab.0.bottom/0.23.1680.925@0.23.1680.925" timestamp="1589224069987" />
+    <state width="1558" height="246" key="GridCell.Tab.0.bottom/0.23.1680.934@0.23.1680.934" timestamp="1588701399664" />
+    <state width="1558" height="246" key="GridCell.Tab.0.bottom/0.23.1680.937@0.23.1680.937" timestamp="1588716063536" />
+    <state width="1558" height="305" key="GridCell.Tab.0.center" timestamp="1589224069986">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1558" height="305" key="GridCell.Tab.0.center/0.23.1680.925@0.23.1680.925" timestamp="1589224069986" />
+    <state width="1558" height="246" key="GridCell.Tab.0.center/0.23.1680.934@0.23.1680.934" timestamp="1588701399663" />
+    <state width="1558" height="246" key="GridCell.Tab.0.center/0.23.1680.937@0.23.1680.937" timestamp="1588716063535" />
+    <state width="1558" height="305" key="GridCell.Tab.0.left" timestamp="1589224069986">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1558" height="305" key="GridCell.Tab.0.left/0.23.1680.925@0.23.1680.925" timestamp="1589224069986" />
+    <state width="1558" height="246" key="GridCell.Tab.0.left/0.23.1680.934@0.23.1680.934" timestamp="1588701399662" />
+    <state width="1558" height="246" key="GridCell.Tab.0.left/0.23.1680.937@0.23.1680.937" timestamp="1588716063534" />
+    <state width="1558" height="305" key="GridCell.Tab.0.right" timestamp="1589224069986">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1558" height="305" key="GridCell.Tab.0.right/0.23.1680.925@0.23.1680.925" timestamp="1589224069986" />
+    <state width="1558" height="246" key="GridCell.Tab.0.right/0.23.1680.934@0.23.1680.934" timestamp="1588701399663" />
+    <state width="1558" height="246" key="GridCell.Tab.0.right/0.23.1680.937@0.23.1680.937" timestamp="1588716063535" />
+    <state width="1558" height="305" key="GridCell.Tab.1.bottom" timestamp="1589224069987">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1558" height="305" key="GridCell.Tab.1.bottom/0.23.1680.925@0.23.1680.925" timestamp="1589224069987" />
+    <state width="1558" height="305" key="GridCell.Tab.1.center" timestamp="1589224069987">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1558" height="305" key="GridCell.Tab.1.center/0.23.1680.925@0.23.1680.925" timestamp="1589224069987" />
+    <state width="1558" height="305" key="GridCell.Tab.1.left" timestamp="1589224069987">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1558" height="305" key="GridCell.Tab.1.left/0.23.1680.925@0.23.1680.925" timestamp="1589224069987" />
+    <state width="1558" height="305" key="GridCell.Tab.1.right" timestamp="1589224069987">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state width="1558" height="305" key="GridCell.Tab.1.right/0.23.1680.925@0.23.1680.925" timestamp="1589224069987" />
+    <state x="428" y="227" key="IDE.errors.dialog" timestamp="1588705490105">
+      <screen x="0" y="23" width="1680" height="937" />
+    </state>
+    <state x="428" y="227" key="IDE.errors.dialog/0.23.1680.937@0.23.1680.937" timestamp="1588705490105" />
+    <state x="328" y="67" key="SettingsEditor" timestamp="1589223298772">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state x="328" y="67" key="SettingsEditor/0.23.1680.925@0.23.1680.925" timestamp="1589223298772" />
+    <state x="328" y="67" key="SettingsEditor/0.23.1680.934@0.23.1680.934" timestamp="1588691461730" />
+    <state x="208" y="98" key="new project wizard" timestamp="1589219174056">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state x="208" y="98" key="new project wizard/0.23.1680.925@0.23.1680.925" timestamp="1589219174056" />
+    <state x="505" y="225" width="670" height="676" key="search.everywhere.popup" timestamp="1588682873535">
+      <screen x="0" y="23" width="1680" height="925" />
+    </state>
+    <state x="505" y="225" width="670" height="676" key="search.everywhere.popup/0.23.1680.925@0.23.1680.925" timestamp="1588682873535" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Covid$server.ic" NAME="server Coverage Results" MODIFIED="1589221019938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: swim.covid
+Implementation-Version: 3.10.2
+Main-Class: swim.covid.CovidPlane
+

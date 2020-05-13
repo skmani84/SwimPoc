@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="covid">
+    <output-path>$PROJECT_DIR$/out/artifacts/covid</output-path>
+    <root id="root" />
+  </artifact>
+</component>
